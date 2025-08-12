@@ -1,0 +1,33 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "ReactJs Hello World",
+  "keywords": [
+    "ReactJS",
+    "HelloWorld",
+    "ReactApp",
+    "RaghuKiran4590/ReactJS"
+  ],
+  "homepage": "https://github.com/raghukiran4590/ReactJS#readme",
+  "bugs": {
+    "url": "https://github.com/raghukiran4590/ReactJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghukiran4590/ReactJS.git"
+  },
+  "license": "ISC",
+  "author": "Raghu Kiran",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
